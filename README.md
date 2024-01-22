@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vinita1608
+- 👋 Hi, I’m @Vinita Ravi Rao
 - 👀 I’m interested in Coding and aspiring to work in analytics or cyber security department
 - 🌱 I have currently learned HTML,JAVA,C,C++, R
 - 📫 How to reach me vinitarao2000@gmail.com 
